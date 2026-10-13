@@ -1,0 +1,13 @@
+Set-Content -Path .gitignore -Value @"
+# Python cache
+__pycache__/
+*.pyc
+
+# Excel temporary lock files
+~$*.xlsx
+~$*.xls
+
+# Environment & IDE
+.vscode/
+.idea/
+"@
