@@ -38,7 +38,7 @@ File Google Sheets Tim Humas terhubung dengan Google Apps Script Webhook sehingg
 | :---: | :--- | :---: | :--- | :--- |
 | **1** | **Fondasi**:<br>Kepemimpinan & Manajemen Organisasi (KMO) | **EKSTERNAL** | Prinsip kepemimpinan, fungsi organisasi, pembagian peran, tanggung jawab, dan pengelolaan tim. | • **Zen RS** (Proses pendekatan) |
 | **2** | **Mindset**:<br>Self-Awareness & Critical Thinking | **INTERNAL** | Mengenali potensi & nilai diri, berpikir kritis, analisis masalah, memahami tujuan instruksi. | • **Dr. Yudhy, Drs., M.Ag. (FIX / BERSEDIA)** ✅<br>*Jadwal:* Kamis, 29 Okt (Pagi/Siang)<br>*Follow-up:* Siapkan Proposal, Surat Undangan Resmi, dan atur waktu ngobrol dengan Ketuplak LDKM. |
-| **3** | **Kolaborasi**:<br>Collaboration, Solidarity & Conflict Management | **INTERNAL** | Empati, kepercayaan, memahami perbedaan, mengelola konflik, dan solusi bersama. | Tinggal 1 Pemateri Internal lagi:<br>• **Pak Ade Iskandar** / **Pak Miki** |
+| **3** | **Kolaborasi**:<br>Collaboration, Solidarity & Conflict Management | **INTERNAL** | Empati, kepercayaan, memahami perbedaan, mengelola konflik, dan solusi bersama. | Tinggal 1 Pemateri Internal lagi (Opsi):<br>• **Pak Miki** (Miki Wijaya, M.Kom.)<br>• **Pak Ade Iskandar** (Ade Iskandar Nasution, S.H., M.H.)<br>• **Pak Revi** (Revi Nur Ridwan, M.Pd.) |
 | **4** | **Ekspresi & Aksi**:<br>Effective Communication & Public Speaking | **EKSTERNAL** | Menyampaikan ide dengan jelas, argumen konstruktif, berani berpendapat, menyuarakan aspirasi. | • **Pemateri dari IHLL** (Mitra Kampus, nama menyusul) |
 
 ---
