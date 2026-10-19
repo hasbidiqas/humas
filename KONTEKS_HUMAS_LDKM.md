@@ -16,6 +16,7 @@ File Google Sheets Tim Humas terhubung dengan Google Apps Script Webhook sehingg
   2. `2. Pemateri Fix` (Tracker narasumber terpilih, LO pendamping, surat/TOR, & berkas PPT)
   3. `3. Template Chat` (SOP dan draf chat pemateri, follow-up, izin ruangan)
   4. `4. Koordinasi Kosma` (Rekap kontak 11 Kosma, jadwal kosong kelas maba, dan plotting sosialisasi)
+  5. `5. Timeline Humas` (Master timeline terstruktur 4 pilar kerja divisi Humas)
 
 ---
 
