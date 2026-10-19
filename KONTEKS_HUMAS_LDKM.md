@@ -39,7 +39,7 @@ File Google Sheets Tim Humas terhubung dengan Google Apps Script Webhook sehingg
 | **1** | **Fondasi**:<br>Kepemimpinan & Manajemen Organisasi (KMO) | **EKSTERNAL** | Prinsip kepemimpinan, fungsi organisasi, pembagian peran, tanggung jawab, dan pengelolaan tim. | • **Zen RS** (Zen Rachmat Sugito - Khusus topik 1) |
 | **2** | **Mindset**:<br>Self-Awareness & Critical Thinking | **INTERNAL** | Mengenali potensi & nilai diri, berpikir kritis, analisis masalah, memahami tujuan instruksi. | • Pak Ade Iskandar (Ade Iskandar Nasution, S.H., M.H.)<br>• Pak Yudhy (Dr. Yudhy, Drs., M.Ag.)<br>• Pak Miki (Miki Wijaya, M.Kom.) |
 | **3** | **Kolaborasi**:<br>Collaboration, Solidarity & Conflict Management | **INTERNAL** | Empati, kepercayaan, memahami perbedaan, mengelola konflik, dan solusi bersama. | • Pak Yudhy (Dr. Yudhy, Drs., M.Ag.)<br>• Pak Miki (Miki Wijaya, M.Kom.)<br>• Pak Ade Iskandar (Ade Iskandar Nasution, S.H., M.H.) |
-| **4** | **Ekspresi & Aksi**:<br>Effective Communication & Public Speaking | **EKSTERNAL** | Menyampaikan ide dengan jelas, argumen konstruktif, berani berpendapat, menyuarakan aspirasi. | • **Fathimah Azzahra** (Wakil Ketua BEM UI 2026, Aktivis & Orator) |
+| **4** | **Ekspresi & Aksi**:<br>Effective Communication & Public Speaking | **EKSTERNAL** | Menyampaikan ide dengan jelas, argumen konstruktif, berani berpendapat, menyuarakan aspirasi. | • **Pemateri dari IHLL** (Indonesia Humanitarian Logistics Lab - Mitra Kampus, nama menyusul) |
 
 ---
 
