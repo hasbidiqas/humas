@@ -51,15 +51,15 @@ File Google Sheets Tim Humas terhubung dengan Google Apps Script Webhook sehingg
 
 ### Rekap Kontak Kosma & Jadwal Kosong Kelas Maba 2026:
 1. **Teknik Industri**: Royyan (+62 838-7551-6303)  
-   *Jadwal Kosong:* Rabu (09.10 - 10.00) & Kamis (10.50 - 13.00)
+   *Jadwal Terjadwal:* **Selasa, 20 Okt (10.10 di B203)** | Petugas: Dina
 2. **Teknik Informatika**: Siraj (+62 822-9883-1441)  
-   *Jadwal Kosong:* Senin (11.30-an) & Rabu (09.10-an)
+   *Jadwal Kosong:* Rabu (09.10-an) | Petugas: Dina, Hasbi
 3. **Agribisnis**: Marsya (+62 812-2407-3226)  
-   *Jadwal Kosong:* Jum'at (10.30) & Hari ini s.d. 14.00
+   *Jadwal Kosong:* Jum'at (10.30) | Petugas: Dina, Klar
 4. **Teknologi Pangan**: Isra (+62 895-3298-97079)  
-   *Jadwal Kosong:* Rabu (12.20) & Jum'at (09.20 - 09.50)
+   *Jadwal Terjadwal:* **Selasa, 20 Okt (11.30 di B413)** | Petugas: Dina
 5. **Bimbingan Konseling**: (+62 813-3087-7193)  
-   *Status:* Menunggu konfirmasi jadwal
+   *Status:* **✅ SELESAI** | Petugas: Rina
 6. **Pendidikan Bahasa Inggris**: (+62 823-3841-3830)  
    *Jadwal Kosong:* Jum'at (10.50-an)
 7. **Perbankan Syariah**: Yasir (+62 838-2427-2554)  
