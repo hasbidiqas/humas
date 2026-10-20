@@ -51,23 +51,23 @@ File Google Sheets Tim Humas terhubung dengan Google Apps Script Webhook sehingg
 
 ### Rekap Kontak Kosma & Jadwal Kosong Kelas Maba 2026:
 1. **Teknik Industri**: Royyan (+62 838-7551-6303)  
-   *Jadwal Terjadwal:* **Selasa, 20 Okt (10.10 di B203)** | Petugas: Dina
+   *Status:* **✅ SELESAI** (Selasa, 20 Okt) | Petugas: Dina
 2. **Teknik Informatika**: Siraj (+62 822-9883-1441)  
    *Jadwal Kosong:* Rabu (09.10-an) | Petugas: Dina, Hasbi
 3. **Agribisnis**: Marsya (+62 812-2407-3226)  
-   *Jadwal Kosong:* Jum'at (10.30) | Petugas: Dina, Klar
+   *Status:* **✅ SELESAI** (Selasa, 20 Okt) | Petugas: Dina, Klar
 4. **Teknologi Pangan**: Isra (+62 895-3298-97079)  
-   *Jadwal Terjadwal:* **Selasa, 20 Okt (11.30 di B413)** | Petugas: Dina
+   *Status:* **✅ SELESAI** (Selasa, 20 Okt) | Petugas: Dina
 5. **Bimbingan Konseling**: (+62 813-3087-7193)  
-   *Status:* **✅ SELESAI** | Petugas: Rina
+   *Status:* **✅ SELESAI** (Senin, 19 Okt) | Petugas: Rina
 6. **Pendidikan Bahasa Inggris**: (+62 823-3841-3830)  
-   *Jadwal Kosong:* Jum'at (10.50-an)
+   *Status:* **✅ SELESAI** (Senin, 19 Okt) | Petugas: Dina, Klar
 7. **Perbankan Syariah**: Yasir (+62 838-2427-2554)  
-   *Status:* Menunggu konfirmasi jadwal
+   *Jadwal:* Kamis (12.00-an) -> Perlu dimajukan ke Rabu
 8. **Manajemen Bisnis Syariah**:  
-   *Jadwal Kosong:* Jum'at (10.00-an)
+   *Jadwal:* Jum'at (10.00-an) -> Perlu dimajukan ke Rabu
 9. **Bisnis Digital**: Saepul (+62 851-3371-6189)  
-   *Jadwal Kosong:* Selasa (10.10 - 13.20)
+   *Status:* **✅ SELESAI** (Selasa, 20 Okt) | Petugas: Dina
 10. **Komputerisasi Akuntansi**: Nurul (+62 822-6285-6159)  
     *Jadwal Kosong:* Jum'at (10.00-an), Selasa (13.30-an), Kamis (08.00 - 13.20 & 15.00)
 11. **Sistem Informasi**: Raka (+62 831-4563-3721)  
